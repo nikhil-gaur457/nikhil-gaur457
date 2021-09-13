@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am `Nikhil Gaur`.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-gaur457&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-gaur457" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil-gaur457&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
 
 <!--
 **nikhil-gaur457/nikhil-gaur457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
