@@ -13,7 +13,7 @@
 
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>Data Structures & Algorithm</b>.<br> 
+ 🌱 I’m currently learning <b>Data Structures & Algorithm along with deep learning using open cv</b>.<br> 
  💬 Ask me about anything, I am happy to help.<br>
  
 
